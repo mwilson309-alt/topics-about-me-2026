@@ -4,7 +4,7 @@ You've already survived at least one computer science class. Before we get into 
 
 At the same time, we're going to make sure your development environment is actually working.
 
-Your Task
+## Your Task
 
 Create a folder/repository named:
 
@@ -21,55 +21,55 @@ topics-about-me/
 
 Your README.md will contain your responses to the questions below.
 
-Part 1 — The Basics
+### Part 1 — The Basics
 
 Answer each question using complete thoughts. You don't need to write an essay.
 
-What is your name?
+- What is your name? 
+>Micah Wilson
+- What computer science class(es) have you taken before?
+>The one with mr warner, nothing else
+- What is something you remember learning in computer science last year?
 
-What computer science class(es) have you taken before?
+- What is something from last year that you have mostly forgotten?
 
-What is something you remember learning in computer science last year?
+- Outside of school, what are you interested in?
 
-What is something from last year that you have mostly forgotten?
+- What is something you're particularly good at — technology related or not?
 
-Outside of school, what are you interested in?
-
-What is something you're particularly good at — technology related or not?
-
-Part 2 — You and Computer Science
+### Part 2 — You and Computer Science
 
 Rate Yourself
 
 Using a scale of 1–5, rate your current confidence with each of these:
 
-Programming
+- Programming
 
-Python
+- Python
 
-Debugging
+- Debugging
 
-GitHub
+- GitHub
 
-VS Code
+- VS Code
 
-Working with files and folders
+- Working with files and folders
 
-Using the terminal
+- Using the terminal
 
-Figuring things out when nobody gives you step-by-step instructions
+- Figuring things out when nobody gives you step-by-step instructions
 
 Then answer:
 
-Which rating are you most confident about? Why?
+- Which rating are you most confident about? Why?
 
-Which rating do you most want to improve this year? Why?
+- Which rating do you most want to improve this year? Why?
 
-Part 3 — Pick Your Poison
+### Part 3 — Pick Your Poison
 
 For each pair, bold your choice.
 
-Example:
+*Example:*
 
 Python or Java
 

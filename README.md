@@ -1,55 +1,49 @@
-Topics in CS - Assignment 1: About Me in GitHub
----
+# Topics in CS - Assignment 1: About Me in GitHub
+
 This is the first assignment for Topics in CS 2026
 
-Part 1 — The Basics
----
+## Part 1 — The Basics
 
 Answer each question using complete thoughts. You don't need to write an essay.
 
 1. What is your name??
-
+>Micah Wilson
 2. What computer science class(es) have you taken before?
-
+>The one with Mr. Warner
 3. What is something you remember learning in computer science last year?
-
+>Everything I curtrently know (Lets just say defining a function for the sake of the assignment though)
 4. What is something from last year that you have mostly forgotten?
-
+>I dont remember
 5. Outside of school, what are you interested in?
-
+>I want to take up sewing
 6. What is something you're particularly good at — technology related or not?
+>I can remember 99% of every video game or movie Ive ever played/Watched.
 
-Part 2 — You and Computer Science
----
+## Part 2 — You and Computer Science
 
-Rate Yourself
+### Confidence Ratings
 
 Using a scale of 1–5, rate your current confidence with each of these:
 
-+ Programming
-
-+ Python
-
-+ Debugging
-
-+ GitHub
-
-+ VS Code
-
-+ Working with files and folders
-
-+ Using the terminal
-
-+ Figuring things out when nobody gives you step-by-step instructions
+* Programing: 3
+* Python: 3
+* Debugging: 1
+* Github: 1
+* VS code: 5
+* Working with files and folders: 5
+* Using the terminal: 2
+* Figuring something out when nobody gives you step-by-step instructions: 2
 
 Then answer:
 
 + Which rating are you most confident about? Why?
-
+>Probably VS code bc I use it at home to
 + Which rating do you most want to improve this year? Why?
+>Github, because it sounds like you will make us use it a lot this year
 
-Part 3 — Pick Your Poison
----
+## Part 3 — Pick Your Poison
+
+### My Choices
 
 For each pair, bold your choice.
 
@@ -59,49 +53,46 @@ Example:
 
 Choose one:
 
-+  Python or Java
++  **Python** or Java
 
-+ Mac or PC
++ **Mac** or PC
 
-+ GUI or Command Line
++ GUI or **Command Line**
 
-+ Build something useful or build something ridiculous
++ Build something **useful** or build something ridiculous
 
-+ Work alone or work with a team
++ Work **alone** or work with a team
 
-+ Hardware or Software
++ **Hardware** or Software
 
-+ Fix a bug or start over
++ Fix a bug or **start over**
 
-+ Google it or figure it out yourself
++ **Google** it or figure it out yourself
 
-+ Game development or AI
++ **Game development** or AI
 
-+ Cybersecurity or Data Science
++ Cybersecurity or **Data Science**
 
-Part 4 — Your Technology
----
+## Part 4 — Your Technology
+
+### Technology I Use
 
 Answer the following:
 
-+ What piece of technology do you use the most?
-
-    + Your answer can be hardware, software, an app, a website, a device, etc.
-
-+ What technology do you think is overrated?
-
-    + Explain.
-
-+ What technology do you wish existed?
-
-+ It can be realistic or completely ridiculous.
-
++ What piece of technology do you use the most? Your answer can be hardware, software, an app, a website, a device, etc.
+>I use my windows 10
++ What technology do you think is overrated? Explain.
+>I dont really know... I dont use many diffrent things, I just stick to what I know
++ What technology do you wish existed? It can be realistic or completely ridiculous.
+>Something that finds resepies online and gives you easy to follow/ understand steps
 + What is something computers are currently bad at?
-
+>When I got my firse windows computer I prayed to whoever would listen that one day these things would have tutorials.
 + What is one technology-related issue you think people your age should care about?
+>I dont know, I feel like there is an app for everything nowadays. Maybe wifi?
 
-Part 5 — Build Something
----
+## Part 5 — Build Something
+
+### My Project Idea
 
 Imagine I gave you the rest of the semester and said:
 
@@ -114,38 +105,35 @@ You have access to computers, the internet, programming tools, and reasonable sc
 Describe:
 
 + What it would do
-
+1. It would have a canender you can use to plan out asignments.
+2. Have a study section where you can take questions and turn them into games (using AI)
+3. Would contail all sorts of resources like Periodic tables, Formulas, Timelines, and other resourses like [Khan Academy](https://www.khanacademy.org/)
 + Who would use it
-
+>*Everyone*
 + Why you would want to build it
-
+>To make my homework easier
 + What you would need to learn in order to make it
-
+>I would need to learn how to publish an app, how to update an app, And I would need to make an AI
 *Don't worry about whether you currently know how to build it.*
 
-Part 6 — Prove You Know Markdown
----
+## Part 6 — Prove You Know Markdown
 
 Your document must contain all of the following:
 
 + At least three heading levels
-
+>Check
 + Bold text
-
+>Check
 + Italic text
-
+>Check
 + A bulleted list
-
+>Check
 + A numbered list
-
+>Check
 + A blockquote
-
-+ inline code
-
-+ A code block
-
+>Check
 + A link
-
+>Check
 + An image
 
 + A horizontal rule
@@ -154,8 +142,7 @@ Your document must contain all of the following:
 
 **Use them naturally throughout your responses.**
 
-Part 7 — Your Image
----
+## Part 7 — Your Image
 
 Find an appropriate image representing something you enjoy.
 
@@ -169,8 +156,7 @@ Do not link directly to an image somewhere on the internet.
 
 The actual image file should exist inside your repository.
 
-Part 8 — Git
----
+## Part 8 — Git
 
 You must make at least three commits while completing this assignment.
 
@@ -192,8 +178,7 @@ Do not write:
         + Add technology section and formatting
         + Add image and finish README
 
-Part 9 — Push to GitHub
----
+## Part 9 — Push to GitHub
 
 Your final repository on GitHub should contain:
 
@@ -214,8 +199,7 @@ Make sure:
 
 + Your commit history contains at least three commits.
 
-Final Question
----
+## Final Question
 
 At the very bottom of your README, add:
 
@@ -225,8 +209,7 @@ At the very bottom of your README, add:
 
 + If nothing was difficult, explain the Git/GitHub workflow in your own words.
 
-Submission
----
+## Submission
 
 + Submit the URL to your GitHub repository.
 
