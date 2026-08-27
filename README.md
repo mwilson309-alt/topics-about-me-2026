@@ -114,7 +114,10 @@ Describe:
 >To make my homework easier
 + What you would need to learn in order to make it
 >I would need to learn how to publish an app, how to update an app, And I would need to make an AI
-*Don't worry about whether you currently know how to build it.*
+
+*Don't worry about whether yu currently know how to build it.*
+
+this is a change
 
 ## Part 6 — Prove You Know Markdown
 
