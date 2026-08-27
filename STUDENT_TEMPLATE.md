@@ -26,9 +26,9 @@ Your README.md will contain your responses to the questions below.
 Answer each question using complete thoughts. You don't need to write an essay.
 
 - What is your name? 
->Micah Wilson
+
 - What computer science class(es) have you taken before?
->The one with mr warner, nothing else
+
 - What is something you remember learning in computer science last year?
 
 - What is something from last year that you have mostly forgotten?

@@ -13,11 +13,11 @@ Answer each question using complete thoughts. You don't need to write an essay.
 3. What is something you remember learning in computer science last year?
 >Everything I curtrently know (Lets just say defining a function for the sake of the assignment though)
 4. What is something from last year that you have mostly forgotten?
->I dont remember
+>I dont remember, I must have forgot it
 5. Outside of school, what are you interested in?
 >I want to take up sewing
 6. What is something you're particularly good at — technology related or not?
->I can remember 99% of every video game or movie Ive ever played/Watched.
+>I can remember 99% of every video game or movie Ive ever played/Watched. In the Mario games I can remember where almost every secret is located.
 
 ## Part 2 — You and Computer Science
 
@@ -117,6 +117,8 @@ Describe:
 
 *Don't worry about whether you currently know how to build it.*
 
+---
+
 ## Part 6 — Prove You Know Markdown
 
 Your document must contain all of the following:
@@ -136,9 +138,9 @@ Your document must contain all of the following:
 + A link
 >Check
 + An image
-
+>Check
 + A horizontal rule
-
+>Check
 **Do not add these randomly at the bottom of the document.**
 
 **Use them naturally throughout your responses.**
@@ -150,6 +152,7 @@ Find an appropriate image representing something you enjoy.
 Save the image inside:
 
 images/
+![Nintendo switch](images/switch.jpg)
 
 Then display it in your README using Markdown.
 
