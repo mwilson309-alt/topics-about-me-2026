@@ -124,23 +124,23 @@ Describe:
 Your document must contain all of the following:
 
 + At least three heading levels
->Check
+
 + Bold text
->Check
+
 + Italic text
->Check
+
 + A bulleted list
->Check
+
 + A numbered list
->Check
+
 + A blockquote
->Check
+
 + A link
->Check
+
 + An image
->Check
+
 + A horizontal rule
->Check
+
 **Do not add these randomly at the bottom of the document.**
 
 **Use them naturally throughout your responses.**
