@@ -109,9 +109,9 @@ Describe:
 2. Have a study section where you can take questions and turn them into games (using AI)
 3. Would contail all sorts of resources like Periodic tables, Formulas, Timelines, and other resourses like [Khan Academy](https://www.khanacademy.org/)
 + Who would use it
->*Everyone*
+>*Everyone* can use it
 + Why you would want to build it
->To make my homework easier
+>To make homework easier
 + What you would need to learn in order to make it
 >I would need to learn how to publish an app, how to update an app, And I would need to make an AI
 
