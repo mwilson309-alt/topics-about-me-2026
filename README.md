@@ -232,3 +232,7 @@ At the very bottom of your README, add:
     + Push a repository to GitHub
 
     + Verify your work
+
+    ## Status check
+
+    >The hardest part for me was figuring pout how yo use images, and how to use github. But its alright in the end because my incompetence created a reasourses for future computer science students to prosper off of. :D
